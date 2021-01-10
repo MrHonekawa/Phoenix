@@ -5,3 +5,5 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8-green?style=for-the-badge&logo=appveyor)
 ![Issues](https://img.shields.io/github/issues/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
+![Forks](https://img.shields.io/github/forks/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
+![Stars](https://img.shields.io/github/stars/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
