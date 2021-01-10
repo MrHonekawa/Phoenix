@@ -9,3 +9,4 @@
 ![Stars](https://img.shields.io/github/stars/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
 ![LICENSE](https://img.shields.io/github/license/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
 ![Contributors](https://img.shields.io/github/contributors/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
+![Repository Size](https://img.shields.io/github/repo-size/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)</br>
