@@ -7,3 +7,5 @@
 ![Issues](https://img.shields.io/github/issues/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
 ![Forks](https://img.shields.io/github/forks/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
 ![Stars](https://img.shields.io/github/stars/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
+![LICENSE](https://img.shields.io/github/license/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
+![Contributors](https://img.shields.io/github/contributors/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
