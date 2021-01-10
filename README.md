@@ -12,3 +12,4 @@
 ![Repository Size](https://img.shields.io/github/repo-size/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)</br>
 
 [![Join Support!](https://img.shields.io/badge/TG%20SUPPORT-CHAT)](https://t.me/TGBOTSUPPORT)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/MrHonekawa/Phoenix?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MrHonekawa/Phoniex&amp;utm_campaign=Badge_Grade)
