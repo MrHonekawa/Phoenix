@@ -10,3 +10,5 @@
 ![LICENSE](https://img.shields.io/github/license/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
 ![Contributors](https://img.shields.io/github/contributors/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)
 ![Repository Size](https://img.shields.io/github/repo-size/MrHonekawa/Phoenix?style=for-the-badge&logo=appveyor)</br>
+
+[![Join Support!](https://img.shields.io/badge/TG%20SUPPORT-CHAT)](https://t.me/TGBOTSUPPORT)
