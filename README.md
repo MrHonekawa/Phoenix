@@ -28,6 +28,17 @@ Note: This instruction set is just a copy paste from marie, note that [TG BOT SU
 Please make sure to use python 3.6, as I cannot guarantee everything will work as expected on older python versions!
 This is because markdown parsing is done by iterating through a dict, which are ordered by default in 3.6.
 
-`How To Fork This Repo??`
+#Phoenix BOT
+Hello, we are helping fork/clone on this project if you want to create clone of phoenix.
 
+## Credits
+
+Most of the credits goes to My Most Modules Helper [Goku](https://t.me/FaucetMaker) Have a donate if you like his work.
+`Donate :-TRON :`
+
+# Base Code
+[MrHonekawa](https://github.com/mrhonekawa)/ [Edwin McCoy](https://t.me/mccoyeddy)
+
+# Create Fork Of This Repo. (How To Do That)
+`If Smartphone`
 ![Phoenix](https://telegra.ph/file/e70a9d65fa3afdda1df88.jpg)
