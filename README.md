@@ -42,3 +42,11 @@ Most of the credits goes to My Most Modules Helper [Goku](https://t.me/FaucetMak
 # Create Fork Of This Repo. (How To Do That)
 `If Smartphone`
 ![Phoenix](https://telegra.ph/file/e70a9d65fa3afdda1df88.jpg)
+
+Tap on button written as `Fork`.
+It will take about few seconds to do that.
+All Done; Congrats You Forked This Repo.
+
+#Have Base Editing You Want in Code.
+
+Just don't remove some codes; Don't change all the code just change `__init__.py` and `__main__.py`.
