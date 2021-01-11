@@ -157,3 +157,13 @@ To add commands, make sure to import the dispatcher via
 You can then add commands using the usual
 
 `dispatcher.add_handler()`.
+
+## help on comands .
+
+-`/start`-start the bot `Free to use`
+-`/help`-get more funcs,about the bot .`Free to use`
+-`/gban`-globally bans the user.`Bots owner req`
+-`/mute`- mutes the user.
+-`/unmute`-unmutes the user.`Chat admin req`
+-`/ban`-bans the user from specific group `Chat admin req`
+-`/kick`-kicks the user from group `Chat admin req`
